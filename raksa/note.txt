@@ -1,0 +1,5 @@
+daftar github.com
+download git
+config git
+> git config --global  user.name "myusername"
+> git config --global  user.email "my_email@ex.com
